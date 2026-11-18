@@ -2,7 +2,7 @@
 *On-going Project*
 
 ## Project Status
-⚠️ Work in progress — only part of the thesis is included; LIME and SHAP for tabular data are under development.
+
 
 ## Introduction
 
