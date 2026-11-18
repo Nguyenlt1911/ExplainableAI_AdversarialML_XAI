@@ -1,5 +1,5 @@
 # Adversarial Robustness and Explainable AI for CNNs
-*On-going Project*
+
 
 ## Project Status
 
